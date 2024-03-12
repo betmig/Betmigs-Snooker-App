@@ -4,6 +4,8 @@ Betmig’s snooker app is a dynamic digital interpretation of traditional snooke
 dynamic cue system and sound effects, which elevate the standard gameplay experience. This application is tailored to
 attract a broad audience through its engaging gameplay mechanics and various modes.
 
+# Video Demo
+
 ## Extensions: Dynamic Cue System and Sound Effects
 
      - Dynamic Cue System: This extension revolutionizes player interaction. The cue's angle
