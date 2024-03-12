@@ -4,7 +4,7 @@ Betmig’s snooker app is a dynamic digital interpretation of traditional snooke
 dynamic cue system and sound effects, which elevate the standard gameplay experience. This application is tailored to
 attract a broad audience through its engaging gameplay mechanics and various modes.
 
-Extensions: Dynamic Cue System and Sound Effects
+## Extensions: Dynamic Cue System and Sound Effects
 
      - Dynamic Cue System: This extension revolutionizes player interaction. The cue's angle
      and power dynamically respond to mouse movements, allowing players to simulate realistic 
@@ -16,7 +16,7 @@ Extensions: Dynamic Cue System and Sound Effects
       and pocketing, add auditory depth to the gameplay, bringing the virtual snooker experience
       closer to reality.
 
-Game Modes
+## Game Modes
 
       - Regular Snooker Setup: Emulates the classic snooker game, perfect for traditionalists seeking
        the authentic snooker experience.
@@ -27,7 +27,7 @@ Game Modes
       - Hidden Game Mode: Accessible by pressing the key '4', this hidden mode provides a 
         unique twist to the game, offering players an unexpected and novel snooker experience.
 
-Technical and User Experience
+## Technical and User Experience
 
      - The game logic needed to be sophisticated enough to handle various scenarios and outcomes
        based on the rules of snooker.
@@ -36,7 +36,7 @@ Technical and User Experience
        of the physics involved in the game as well as technical proficiency in programming
        interactive elements in P5.js and Matter.js.
 
-Conclusion
+## Conclusion
 
       Overall, this snooker game app differentiates itself with its extended features of a dynamic
       cue system and integrated sound effects, which together enhance the realism and engagement of the game.
